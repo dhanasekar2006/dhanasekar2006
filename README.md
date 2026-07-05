@@ -13,7 +13,7 @@
 - 🤖 Interested in Machine Learning, Deep Learning & Generative AI
 - 🌱 Currently learning LLMs and AI Applications
 - 💡 Passionate about solving real-world problems using AI
-- 📫 Reach me at: your-email@gmail.com
+- 📫 Reach me at: 727823tuad022@skct.edu.in
 
 ---
 
