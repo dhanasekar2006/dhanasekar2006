@@ -55,21 +55,7 @@
 
 
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&row=1">
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night">
-</p>
-
----
 
 ## 🛠 Tools
 
