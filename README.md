@@ -51,24 +51,7 @@
 
 ---
 
-## 📂 Featured Projects
 
-### 🤖 AI Resume Analyzer
-- Resume screening using NLP
-- Skill extraction and recommendation
-
-### 🎙️ AI Interview Assistant
-- Mock interview platform
-- AI-generated feedback
-
-### 🏥 Disease Prediction System
-- Machine Learning based health prediction
-- Flask Web Application
-
-### 📊 Student Performance Predictor
-- Predicts academic performance using ML
-
----
 
 ## 📈 GitHub Stats
 
